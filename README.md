@@ -1,10 +1,10 @@
-## Sunsets
+## Sunrises
 
-You can use the [editor on GitHub](https://github.com/JustinLee31415/Cookie/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Sunrises at Mother's Beach
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Image]
 
-### Markdown
+## Cookies
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
