@@ -1,37 +1,23 @@
 ## Sunrises
 
-Sunrises at Mother's Beach
+Sunrise at Mother's Beach
 
-[Image]
+![Sunrise](https://user-images.githubusercontent.com/68250747/135289273-69f97941-50e5-422e-a352-064fb82014b2.jpg)
+
+Sunrise with a cat sticker
+
+![SunriseCat](https://user-images.githubusercontent.com/68250747/135289486-af0399fe-0ebe-46ee-830d-2affbdbc89d0.jpg)
 
 ## Cookies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dark chocolate sandwich cookie
 
-```markdown
-Syntax highlighted code block
+![Chocolate](https://user-images.githubusercontent.com/68250747/135290767-14a56890-bc3d-4670-a82f-541b9154ed1f.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+Strawberry chocolate sandwich cookie
 
-- Bulleted
-- List
+![Strawberry](https://user-images.githubusercontent.com/68250747/135290855-417bcb40-b6d4-4428-8fa9-a7fab6ac2ad4.jpg)
 
-1. Numbered
-2. List
+Below is the recipe I used:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JustinLee31415/Cookie/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Sandwich Cookie Recipe](https://www.youtube.com/watch?v=hjXnr0BxxFM)
